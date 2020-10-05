@@ -2,6 +2,9 @@
 
 
 <p>Welcome to my page! </br> I'm Petras, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" width="13"/> <b>Lithuania</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png" width="13"/> <b> Germany</b>. </p>
+
+<p><a href="https://petvi.github.io">🌐 Check out my website</a></p>
+
 <h3>Things I code with</h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
