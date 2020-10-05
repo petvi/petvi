@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey, nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Petras, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" width="13"/> <b>Lithuania</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png" width="13"/> <b> Germany</b>. </p>
+<p>I'm Petras, Fullstack developer from <img src="https://upload.wikimedia.org/wikipedia/commons/1/11/Flag_of_Lithuania.svg" width="13"/> <b>Lithuania</b>, currently living in <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/320px-Flag_of_Germany.svg.png" width="13"/> <b> Germany</b>. </p>
 
 <p><a href="https://petvi.github.io">🌐 Check out my website</a></p>
 
