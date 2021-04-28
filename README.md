@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hey, welcome.</h1>
 
 
-<p>I'm Petras, Junior Web Developer.</p>
+<p>I'm Petras, a Full-Stack JavaScript Developer.</p>
 
 <p><a href="https://petvi.github.io">🌐 Check out my website</a></p>
 
