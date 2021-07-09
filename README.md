@@ -7,6 +7,7 @@
 
 <h3>My tech stack</h3>
 <p>
+<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=flat-square&logo=typescript&logoColor=#3178C6" />
   <img alt="React" src="https://img.shields.io/badge/-React-222222?style=flat-square&logo=react&logoColor=#61DAFB" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-222222?style=flat-square&logo=chakraui&logoColor=#319795" />
 </p>
