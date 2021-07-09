@@ -1,13 +1,13 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hey, welcome.</h1>
 
 
-<p>I'm Petras, a Full-Stack TypeScript/JavaScript Developer.</p>
+<p>I'm Petras (he/him), a Full Stack TypeScript Developer.</p>
 
 <p><a href="https://petvi.github.io">🌐 Check out my website</a></p>
 
 <h3>My tech stack</h3>
 <p>
-  <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-E34F26?style=flat-square&logo=react&logoColor=#61DAFB" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=#222" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
