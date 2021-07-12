@@ -11,6 +11,7 @@
   <img alt="React" src="https://img.shields.io/badge/-React-222222?style=flat-square&logo=react&logoColor=#61DAFB" />
   <img alt="Chakra UI" src="https://img.shields.io/badge/-Chakra UI-222222?style=flat-square&logo=chakraui&logoColor=#319795" />
   <img alt="Vite" src="https://img.shields.io/badge/-Vite-222222?style=flat-square&logo=vite&logoColor=#646CFF" />
+  <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-222222?style=flat-square&logo=graphql&logoColor=#E434AA" />
   <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-222222?style=flat-square&logo=postgresql&logoColor=#4169E1" />
 </p>
 
