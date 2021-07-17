@@ -3,8 +3,6 @@
 
 <p>I'm Petras (he/him), a Full Stack TypeScript Developer.</p>
 
-<p><a href="https://petvi.github.io">🌐 Check out my website</a></p>
-
 <h3>My stack</h3>
 <p>
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-222222?style=flat-square&logo=typescript&logoColor=#3178C6" />
