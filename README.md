@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="30"/> Hey, welcome.</h1>
 
 
-<p>I'm Petras (he/him), a Full Stack TypeScript/JavaScript Developer.</p>
+<p>I'm Petras (he/him), a Full-Stack Web Developer.</p>
 
 <h3>My stack</h3>
 <p>
