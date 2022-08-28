@@ -1,7 +1,3 @@
-### Hi, I'm Petras 👋
+### Hi, folks 👋
 
-I’m a 10x developer.
-
-- 💖  TypeScript junkie.
-- 😄  Pronouns: he/him.
-- 🇱🇹  I'm originally from Lithuania.
+My name is Petras and I'm a Full-Stack Web Developer. I'm from Lithuania, currently living in Hamburg, Germany.
